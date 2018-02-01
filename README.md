@@ -1,5 +1,3 @@
-# Terminal_UNO
-
 <img width="900" src="https://github.com/sergiokmpos/Terminal_UNO/blob/master/banner_Terminal_UNO.png"/>
 
 <a href="https://travis-ci.org/xcodeswift/sake">
@@ -10,28 +8,26 @@
 
 Learning Python. Merging two contents, One is card game rules [UNO](https://pt.wikipedia.org/wiki/Uno_(jogo_de_cartas)), second one is Python Languabe - level basic. Necessary to read only 70 pages from [Python 3 Summerfield, Mark](https://www.skoob.com.br/livro/pdf/programacao-em-python-3/livro:119926/edicao:133047)
 
-## :books:  - Alpha 0.0.1 
+## :books:  - Version 
 
-Lets Start
+Alpha 0.0.1 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 
 ## :bulb: What 
 
-- Creating a file ".py" with import Chatterbot
-- Following Python classes from youtube playlist
+- Card game like UNO, running direct on terminal
 
-Hey ho! Lets go
 
 ## :loudspeaker: Why 
 
-- Mr. Guanabara is a great teacher and my goal is to become an AI expert
+- Good project to learning and Teaching Python level basic
 
 ## :office: Where 
 
-- Pycharm, Youtube and Lets go!
+- Turon on yout Pycharm and Lets go!
 
 ## :person_with_blond_hair: Who 
 
--Me and Forruns on web
+-For everybody
 
 ## :date:  When
 
