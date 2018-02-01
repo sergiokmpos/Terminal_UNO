@@ -1,7 +1,7 @@
 # Terminal_UNO
 A simple use from Python language to create a card games like UNO
 
-<img width="900" src="https://github.com/sergiokmpos/ChatterBot-and-Curso-em-Video/blob/master/banner.png"/>
+<img width="900" src="https://github.com/sergiokmpos/Terminal_UNO/blob/master/banner_Terminal_UNO.png"/>
 
 <a href="https://travis-ci.org/xcodeswift/sake">
 <img src="https://travis-ci.org/xcodeswift/sake.svg?branch=master" alt="Travis"/>
