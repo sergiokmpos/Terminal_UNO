@@ -10,7 +10,7 @@ Learning Python. Merging two contents, One is card game rules [UNO](https://pt.w
 
 ## :books:  - Version 
 
-Alpha 0.0.1 - Woks well. Human versus PC. Implemented only basic (numeric) cards
+Alpha 0.1.0 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 
 ## :bulb: What 
 
@@ -35,7 +35,7 @@ Alpha 0.0.1 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 
 ## :nut_and_bolt:How 
 
--Youtube videos, I will do a program with chatterbot features and small python alghoritms 
+-To build Alpha 0.1.0 version, is necessary study only basic level 
 
 ## :dollar: How much 
 
@@ -43,7 +43,8 @@ Alpha 0.0.1 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 
 ## :computer: Installation 
 
-Import Chatterbot
+Import Modules:
+Alpha 0.1.0 - Only Random
 
 ## :wrench: Setup 
 
@@ -51,16 +52,11 @@ No apply
 
 ## Base code
 
-Starting:
-
-```python
-#from chatterbot.trainers import ListTrainer
-from chatterbot import ChatBot
-```
+Please See "Terminal_UNO.py file
 
 ## how to use ⚒
 
-#### Working on it 📝
+#### Plug and play
 
 
 ## :clipboard: Guidelines 
