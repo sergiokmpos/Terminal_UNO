@@ -1,5 +1,4 @@
 # Terminal_UNO
-A simple use from Python language to create a card games like UNO
 
 <img width="900" src="https://github.com/sergiokmpos/Terminal_UNO/blob/master/banner_Terminal_UNO.png"/>
 
@@ -9,7 +8,7 @@ A simple use from Python language to create a card games like UNO
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](www.twitter.com/sergiokmpos)
 
-Learning Python. Merging two contents, One is a library for python called  [Chatterbot](https://chatterbot.readthedocs.io/en/stable/) , (machine Learning)  second one is a channel from youtube where Mr. Guanabara teach the basic of Python language [Curso em Video](https://www.youtube.com/user/cursosemvideo)
+Learning Python. Merging two contents, One is card game rules [UNO](https://pt.wikipedia.org/wiki/Uno_(jogo_de_cartas)), second one is Python Languabe - level basic. Necessary to read only 70 pages from [Python 3 Summerfield, Mark](https://www.skoob.com.br/livro/pdf/programacao-em-python-3/livro:119926/edicao:133047)
 
 ## :books:  - Alpha 0.0.1 
 
