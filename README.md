@@ -1,7 +1,7 @@
 <img width="900" src="https://github.com/sergiokmpos/Terminal_UNO/blob/master/banner_Terminal_UNO.png"/>
 
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow&style=plastic)](https://twitter.com/sergiokmpos)
 
 
 Learning Python. Merging two contents, One is card game rules [UNO](https://pt.wikipedia.org/wiki/Uno_(jogo_de_cartas)), second one is Python Languabe - level basic. Necessary to read only 70 pages from [Python 3 Summerfield, Mark](https://www.skoob.com.br/livro/pdf/programacao-em-python-3/livro:119926/edicao:133047)
