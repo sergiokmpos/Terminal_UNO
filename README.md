@@ -1,10 +1,7 @@
 <img width="900" src="https://github.com/sergiokmpos/Terminal_UNO/blob/master/banner_Terminal_UNO.png"/>
 
-<a href="https://travis-ci.org/xcodeswift/sake">
-<img src="https://travis-ci.org/xcodeswift/sake.svg?branch=master" alt="Travis"/>
-</a>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](www.twitter.com/sergiokmpos)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 
 Learning Python. Merging two contents, One is card game rules [UNO](https://pt.wikipedia.org/wiki/Uno_(jogo_de_cartas)), second one is Python Languabe - level basic. Necessary to read only 70 pages from [Python 3 Summerfield, Mark](https://www.skoob.com.br/livro/pdf/programacao-em-python-3/livro:119926/edicao:133047)
 
@@ -15,6 +12,7 @@ Alpha 0.1.0 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 ## :bulb: What 
 
 - Card game like UNO, running direct on terminal
+- Language game: Postuguese(Br)
 
 
 ## :loudspeaker: Why 
@@ -23,7 +21,7 @@ Alpha 0.1.0 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 
 ## :office: Where 
 
-- Turon on yout Pycharm and Lets go!
+- Turon on your Pycharm and Lets go!
 
 ## :person_with_blond_hair: Who 
 
@@ -39,7 +37,7 @@ Alpha 0.1.0 - Woks well. Human versus PC. Implemented only basic (numeric) cards
 
 ## :dollar: How much 
 
--Time :)
+Free
 
 ## :computer: Installation 
 
