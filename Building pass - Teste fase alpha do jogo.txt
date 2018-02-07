@@ -1,0 +1,578 @@
+"C:\Users\Sergio Campos\PycharmProjects\UNO\venv\Scripts\python.exe" "C:/Users/Sergio Campos/PycharmProjects/UNO/Terminal_UNO.py"
+
+========================================BEM VINDO AO TERMINAL UNO FOR PYTHON 3.6 - ========================================
+
+Qual é o seu nome? : Faby
+
+Boa sorte FABY !
+====================================================================================================
+O pc têm 7 cartas
+
+A mão do FABY é ['0red', '1green', '2yellow', '9yellow', '5yellow', '7blue', '6green'] .
+O FABY têm 7 cartas
+
+===============================================ESCOLHENDO O TOMBO===============================================
+
+O tombo na mesa é 4red .
+
+===============================================JOGADA===============================================
+O tombo na mesa é 4red .
+
+A mão do FABY é ['0red', '1green', '2yellow', '9yellow', '5yellow', '7blue', '6green'] .
+O FABY agora tem 7 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 1
+
+A carta escolhida foi 0red
+
+A mão do FABY agora é ['1green', '2yellow', '9yellow', '5yellow', '7blue', '6green'] .
+O FABY agora tem 6 cartas
+
+O tombo na mesa é 0red .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 0red .
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+Na tentativa de numero 3 o PC escolheu a carta 8red...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 6 cartas
+
+O tombo na mesa é 8red .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 8red .
+
+A mão do FABY é ['1green', '2yellow', '9yellow', '5yellow', '7blue', '6green'] .
+O FABY agora tem 6 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 3yellow
+A mão do FABY é ['1green', '2yellow', '9yellow', '5yellow', '7blue', '6green', '3yellow'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARp
+P
+FABY passou a vez..
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+Na tentativa de numero 3 o PC escolheu a carta 5red...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 5 cartas
+
+O tombo na mesa é 5red .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 5red .
+
+A mão do FABY é ['1green', '2yellow', '9yellow', '5yellow', '7blue', '6green', '3yellow'] .
+O FABY agora tem 7 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 4
+
+A carta escolhida foi 5yellow
+
+A mão do FABY agora é ['1green', '2yellow', '9yellow', '7blue', '6green', '3yellow'] .
+O FABY agora tem 6 cartas
+
+O tombo na mesa é 5yellow .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 5yellow .
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 3 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 4 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 5 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+O PC comprou uma carta
+
+Na tentativa de numero 6 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 5yellow .
+
+A mão do FABY é ['1green', '2yellow', '9yellow', '7blue', '6green', '3yellow'] .
+O FABY agora tem 6 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 2
+
+A carta escolhida foi 2yellow
+
+A mão do FABY agora é ['1green', '9yellow', '7blue', '6green', '3yellow'] .
+O FABY agora tem 5 cartas
+
+O tombo na mesa é 2yellow .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 2yellow .
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 3 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 4 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 5 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 6 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+O PC comprou uma carta
+
+Na tentativa de numero 7 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 2yellow .
+
+A mão do FABY é ['1green', '9yellow', '7blue', '6green', '3yellow'] .
+O FABY agora tem 5 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 2
+
+A carta escolhida foi 9yellow
+
+A mão do FABY agora é ['1green', '7blue', '6green', '3yellow'] .
+O FABY agora tem 4 cartas
+
+O tombo na mesa é 9yellow .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 9yellow .
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 3 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 4 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 5 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 6 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+Na tentativa de numero 7 o PC escolheu a carta 9green...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 6 cartas
+
+O tombo na mesa é 9green .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 9green .
+
+A mão do FABY é ['1green', '7blue', '6green', '3yellow'] .
+O FABY agora tem 4 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 3
+
+A carta escolhida foi 6green
+
+A mão do FABY agora é ['1green', '7blue', '3yellow'] .
+O FABY agora tem 3 cartas
+
+O tombo na mesa é 6green .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 6green .
+
+Na tentativa de numero 1 o PC escolheu a carta 3green...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 5 cartas
+
+O tombo na mesa é 3green .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 3green .
+
+A mão do FABY é ['1green', '7blue', '3yellow'] .
+O FABY agora tem 3 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 1
+
+A carta escolhida foi 1green
+
+A mão do FABY agora é ['7blue', '3yellow'] .
+O FABY agora tem 2 cartas
+
+O tombo na mesa é 1green .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 1green .
+
+Na tentativa de numero 1 o PC escolheu a carta 7green...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 4 cartas
+
+O tombo na mesa é 7green .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 7green .
+
+A mão do FABY é ['7blue', '3yellow'] .
+O FABY agora tem 2 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 1
+
+A carta escolhida foi 7blue
+
+A mão do FABY agora é ['3yellow'] .
+O FABY agora tem 1 cartas
+
+O tombo na mesa é 7blue .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 7blue .
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 3 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 4 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+O PC comprou uma carta
+
+Na tentativa de numero 5 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 7blue .
+
+A mão do FABY é ['3yellow'] .
+O FABY agora tem 1 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 6yellow
+A mão do FABY é ['3yellow', '6yellow'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARp
+P
+FABY passou a vez..
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 3 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 4 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 5 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+O PC comprou uma carta
+
+Na tentativa de numero 6 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 7blue .
+
+A mão do FABY é ['3yellow', '6yellow'] .
+O FABY agora tem 2 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 6red
+A mão do FABY é ['3yellow', '6yellow', '6red'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARp
+P
+FABY passou a vez..
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 2 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 3 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 4 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 5 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+Na tentativa de numero 6 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+O PC comprou uma carta
+
+
+Na tentativa de numero 7 o PC escolheu a carta 7green...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 6 cartas
+
+O tombo na mesa é 7green .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 7green .
+
+A mão do FABY é ['3yellow', '6yellow', '6red'] .
+O FABY agora tem 3 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 7green
+A mão do FABY é ['3yellow', '6yellow', '6red', '7green'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 4
+
+A carta escolhida foi 7green
+
+A mão do FABY agora é ['3yellow', '6yellow', '6red'] .
+O FABY agora tem 3 cartas
+
+O tombo na mesa é 7green .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 7green .
+
+Na tentativa de numero 1 o PC escolheu a carta 1green...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 5 cartas
+
+O tombo na mesa é 1green .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 1green .
+
+A mão do FABY é ['3yellow', '6yellow', '6red'] .
+O FABY agora tem 3 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 6blue
+A mão do FABY é ['3yellow', '6yellow', '6red', '6blue'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARp
+P
+FABY passou a vez..
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+Na tentativa de numero 2 o PC escolheu a carta 1green...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 4 cartas
+
+O tombo na mesa é 1green .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 1green .
+
+A mão do FABY é ['3yellow', '6yellow', '6red', '6blue'] .
+O FABY agora tem 4 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 7blue
+A mão do FABY é ['3yellow', '6yellow', '6red', '6blue', '7blue'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARp
+P
+FABY passou a vez..
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+Na tentativa de numero 2 o PC escolheu a carta 1red...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 3 cartas
+
+O tombo na mesa é 1red .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 1red .
+
+A mão do FABY é ['3yellow', '6yellow', '6red', '6blue', '7blue'] .
+O FABY agora tem 5 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 3
+
+A carta escolhida foi 6red
+
+A mão do FABY agora é ['3yellow', '6yellow', '6blue', '7blue'] .
+O FABY agora tem 4 cartas
+
+O tombo na mesa é 6red .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 6red .
+
+Na tentativa de numero 1 o PC escolheu a carta 8red...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 2 cartas
+
+O tombo na mesa é 8red .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 8red .
+
+A mão do FABY é ['3yellow', '6yellow', '6blue', '7blue'] .
+O FABY agora tem 4 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARc
+C
+Comprando carta...
+A carta comprada foi 3red
+A mão do FABY é ['3yellow', '6yellow', '6blue', '7blue', '3red'] .
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 5
+
+A carta escolhida foi 3red
+
+A mão do FABY agora é ['3yellow', '6yellow', '6blue', '7blue'] .
+O FABY agora tem 4 cartas
+
+O tombo na mesa é 3red .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 3red .
+Na tentativa de numero 1 o PC escolheu uma carta, ...
+ ...mas a cor ou numero é diferente...
+
+
+Na tentativa de numero 2 o PC escolheu a carta 3red...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 1 cartas
+
+O tombo na mesa é 3red .
+
+
+===============================================JOGADA===============================================
+O tombo na mesa é 3red .
+
+A mão do FABY é ['3yellow', '6yellow', '6blue', '7blue'] .
+O FABY agora tem 4 cartas
+
+[J] = JOGAR / [P] PASSAR / [C] COMPRARj
+J
+Escolha uma carta para jogar FABY: 1
+
+A carta escolhida foi 3yellow
+
+A mão do FABY agora é ['6yellow', '6blue', '7blue'] .
+O FABY agora tem 3 cartas
+
+O tombo na mesa é 3yellow .
+
+----------------------------------------------------------------------------------------------------
+Agora é a vez do PC
+O tombo na mesa é 3yellow .
+
+Na tentativa de numero 1 o PC escolheu a carta 4yellow...
+ ...e essa carta pôde ser jogada :)...
+
+O pc têm 0 cartas
+
+O tombo na mesa é 4yellow .
+
+O PC GANHOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+===============================================GAME-OVER===============================================
+
+Process finished with exit code 0
